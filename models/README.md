@@ -1,11 +1,12 @@
 # Modelos y Diagramas
+
 ## Diagramas de Clases UML
 
 ### 1. Caso 1: HealthFlow
-![Caso 1](models/caso1_healthflow.png)
+![Caso 1](1.png)
 
-### 2. Caso 2: GlobalMarket
-![Caso 2](models/caso2_globalmarket.png)
+### 2. Caso 2: Mercado Global
+![Caso 2](2.png)
 
 ### 3. Caso 3: UniCore
-![Caso 3](models/caso3_unicore.png)
+![Caso 3](3.png)
